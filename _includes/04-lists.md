@@ -1,3 +1,1 @@
-*Emerson
-*Is
-*EPIC
+*Emerson is awesome
